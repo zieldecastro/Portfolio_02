@@ -3,6 +3,8 @@
 Este projeto trata-se de um site estático apenas com HTML5 e CSS3. 
 Fiz para treinar e usei como fonte um vídeo do canal Hostinger Brasil.
 
+Veja como ficou: https://zieldecastro.github.io/Portfolio_02/
+
 Durante esse desenvolvimento estudei mais sobre as tags:
 
 head
